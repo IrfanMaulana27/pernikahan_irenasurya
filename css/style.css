@@ -6,14 +6,14 @@
   font-family: analogue;
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/Analogue.woff2") format("woff2");
+  src: url("fonts/Analogue.woff2") format("woff2");
   font-display: swap;
 }
 @font-face {
   font-family: power;
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/power.woff2") format("woff2");
+  src: url("fonts/power.woff2") format("woff2");
   font-display: swap;
 }
 /* Start Custom Fonts CSS */
@@ -445,7 +445,7 @@ body {
 
 /* event */
 .bg-event {
-  background-image: url("../images/bg-event.jpg");
+  background-image: url("images/bg-event.jpg");
   background-size: cover;
   overflow-x: hidden;
 }
@@ -1042,7 +1042,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(../images/gallery/01.JPG);
+  background-image: url(images/gallery/01.JPG);
   background-size: cover;
   background-position: center;
   position: relative;
