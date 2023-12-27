@@ -1042,7 +1042,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(images/gallery/01.JPG);
+  background-image: url("images/gallery/01.JPG");
   background-size: cover;
   background-position: center;
   position: relative;
